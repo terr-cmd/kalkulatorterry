@@ -1,4 +1,3 @@
-print("APP RUNNING")    
 from calculator.calculator import add, subtract, multiply, divide
 
 print("Simple Calculator")
